@@ -13,7 +13,9 @@
 5. Evalutation
 6. Improvement
 <br/>
-<img src="performance.png" alt="" />
+<p align="center">
+    <img src="performance.png" alt="" />
+</p>
 <br/>
 7. Website
 <br/>
