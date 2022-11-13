@@ -1,6 +1,5 @@
 # Email/SMS Spam Classification System
-### https://jaehwano-email-sms-spam-classification-system-website-ktrfp7.streamlit.app/
-## Steps includes....
+## Steps...
 1. Data cleaning
 2. EDA
 3. Text Preprocessing
@@ -17,6 +16,5 @@
     <img src="performance.png" alt="" />
 </p>
 <br/>
-7. Website
+7. Build website using streamlit
 <br/>
-8. Deploy
