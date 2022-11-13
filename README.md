@@ -3,11 +3,11 @@
 1. Data cleaning
 2. EDA
 3. Text Preprocessing
-- Lower Cases
-- Tokenization
-- Removing special characters
-- Removing stop words and punctuation
-- Stemming
+    - Lower Cases
+    - Tokenization
+    - Removing special characters
+    - Removing stop words and punctuation
+    - Stemming
 4. Model building
 5. Evalutation
 6. Improvement
